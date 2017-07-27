@@ -1,0 +1,605 @@
+{
+  "monitorid" : 363,
+  "testInfo" : {
+    "fromScore" : 0,
+    "fromTime" : 0,
+    "answerquetime" : 3,
+    "scoremethod" : 0,
+    "score" : 87,
+    "id" : 161,
+    "displaymode" : 2,
+    "actAttId" : 0,
+    "active" : true,
+    "generatemode" : 1,
+    "allowpause" : false,
+    "commitmode" : 2,
+    "remainingTime" : 0,
+    "testDrawRuleList" : [
+
+    ],
+    "allowdisplayscore" : true,
+    "questionNumber" : 0,
+    "exactCol" : [
+
+    ],
+    "questionnaireId" : 0,
+    "status" : "",
+    "containChildCatalog" : 0,
+    "description" : "静态综合测试（一）",
+    "scorepolicy" : "M",
+    "passingscore" : 60,
+    "attemptmethod" : 0,
+    "testCatalogIdLst" : "",
+    "hastAttendance" : false,
+    "formatPassingscore" : 53,
+    "testCatalogName" : "",
+    "testCatalogId" : 0,
+    "endtime" : "",
+    "assessind" : false,
+    "name" : "静态综合测试（一）",
+    "testType" : {
+      "code" : "S",
+      "id" : 4,
+      "labeldescription" : "description",
+      "labelname" : "test.type.S"
+    },
+    "categoryNumber" : 0,
+    "formatScore" : "87",
+    "toTime" : 0,
+    "saveType" : "",
+    "testCategoryList" : [
+
+    ],
+    "maxattempts" : 0,
+    "assessmentId" : 0,
+    "formatDate" : "2017-06-15 16:53",
+    "surveyind" : false,
+    "toScore" : 0,
+    "visitType" : "",
+    "testTypeCode" : "S",
+    "attemptperiod" : 0,
+    "allowreview" : false,
+    "starttime" : "",
+    "userName" : "能不能取个好名字",
+    "answernextque" : 0,
+    "displayanswer" : "F",
+    "answerTime" : 90,
+    "modifieddate" : 1497516809742,
+    "creator" : 2,
+    "time" : 90,
+    "allowattemptfailed" : 0,
+    "actTestAttId" : 0,
+    "testTypeLabel" : "",
+    "createdate" : 1497516809742,
+    "difficultlevel" : 0,
+    "modifiedby" : 2
+  },
+  "questionnaireId" : 0,
+  "categoryQuestionList" : [
+    {
+      "questionTypeText" : "单选题",
+      "displaytitle" : true,
+      "totalScore" : "10.5",
+      "questionTypeCode" : "S",
+      "categoryId" : 101,
+      "questionTypeTitle" : "单选题(0\/3)",
+      "questionInputList" : [
+        517,
+        518,
+        519
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "S",
+          "score" : "3.5",
+          "answer" : "C",
+          "id" : 517,
+          "text" : "各种休假单、加班单应于每月（ ）前交至人事行政部，由人事行政部统计。",
+          "choiceOption" : {
+            "choiceAnswer" : "C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "10日",
+                "chopId" : 1006,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "15日",
+                "chopId" : 1007,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "20日",
+                "chopId" : 1008,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "25日",
+                "chopId" : 1009,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "各种休假单、加班单应于每月（）前交至人事行"
+        },
+        {
+          "qtypecode" : "S",
+          "score" : "3.5",
+          "answer" : "B",
+          "id" : 518,
+          "text" : "年终奖绩效考核周期为（ ）",
+          "choiceOption" : {
+            "choiceAnswer" : "B ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "当月1月1日至12月31日",
+                "chopId" : 1010,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "当年7月1日至次年6月30日",
+                "chopId" : 1011,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "当年7月28日至次年7月27日",
+                "chopId" : 1012,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "当年9月1日至次年8月31日",
+                "chopId" : 1013,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "年终奖绩效考核周期为（）"
+        },
+        {
+          "qtypecode" : "S",
+          "score" : "3.5",
+          "answer" : "C",
+          "id" : 519,
+          "text" : "关于加班说法正确的是（ ）",
+          "choiceOption" : {
+            "choiceAnswer" : "C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "正常工作时间前半小时可以算加班",
+                "chopId" : 1014,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "下班后半小时可以算加班",
+                "chopId" : 1015,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "正常工作时间前半小时或后半小时将不视为加班时间",
+                "chopId" : 1016,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "正常工作时间前半小时或后半小时视为加班时间",
+                "chopId" : 1017,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "关于加班说法正确的是（）"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "多选题",
+      "displaytitle" : true,
+      "totalScore" : "6",
+      "questionTypeCode" : "M",
+      "categoryId" : 102,
+      "questionTypeTitle" : "多选题(0\/3)",
+      "questionInputList" : [
+        527,
+        530,
+        532
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "M",
+          "score" : "2",
+          "answer" : "ABC",
+          "id" : 527,
+          "text" : "手机发票上必须是。（）",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "报销本人的手机号码",
+                "chopId" : 1044,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "基本信息是报销人本人所属",
+                "chopId" : 1045,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "摘要信息不可以有出现充值性质的字样",
+                "chopId" : 1046,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "摘要信息可以有出现充值性质的字样",
+                "chopId" : 1047,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "手机发票上必须是。（）"
+        },
+        {
+          "qtypecode" : "M",
+          "score" : "2",
+          "answer" : "BCD",
+          "id" : 530,
+          "text" : "商务卡需要书面解释的情况有（）",
+          "choiceOption" : {
+            "choiceAnswer" : "B C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "持商务卡人员报销符合公司规定的费用",
+                "chopId" : 1056,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "商务卡报销费用合计与商务卡对账单合计不符",
+                "chopId" : 1057,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "超过250元的现金费用报销（手机费除外）",
+                "chopId" : 1058,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "持商务卡人员误刷个人消费",
+                "chopId" : 1059,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "商务卡需要书面解释的情况有（）"
+        },
+        {
+          "qtypecode" : "M",
+          "score" : "2",
+          "answer" : "AC",
+          "id" : 532,
+          "text" : "第三方礼品费按照公司正常规定必须提供（）",
+          "choiceOption" : {
+            "choiceAnswer" : "A C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "发票",
+                "chopId" : 1064,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "商家的说明，并盖上商家公章或发票章",
+                "chopId" : 1065,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "销售小票",
+                "chopId" : 1066,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "收据",
+                "chopId" : 1067,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "第三方礼品费按照公司正常规定必须提供（）"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "不定项选择题",
+      "displaytitle" : true,
+      "totalScore" : "15",
+      "questionTypeCode" : "N",
+      "categoryId" : 103,
+      "questionTypeTitle" : "不定项选择题(0\/3)",
+      "questionInputList" : [
+        585,
+        586,
+        587
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 585,
+          "text" : "顾客进店的开场白：",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "“您好，欢迎光临好莱客全屋原态定制家居体验馆”",
+                "chopId" : 1148,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "“好莱客专业做定制家居13年了”",
+                "chopId" : 1149,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "“我们好莱客有高环保的甲醛零添加原态板”",
+                "chopId" : 1150,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "顾客进店的开场白："
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 586,
+          "text" : "顾客被叫进店，却不说话，请用话术化解尴尬：",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，我看您挺面熟的，您之前有来过吗？",
+                "chopId" : 1151,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，您太严肃了，我长的不吓人吧",
+                "chopId" : 1152,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，您平时都这么酷吗？弄的我好紧张呀",
+                "chopId" : 1153,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "顾客被叫进店，却不说话，请用话术化解尴尬："
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "AB",
+          "id" : 587,
+          "text" : "客户进店时说只是随便看看，应对方式（ ）。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，买家具可是大事情，最好认真仔细的了解一下，您说对吧？",
+                "chopId" : 1154,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，既然进来了就好好了解一下选择衣柜的标准，这样您也不会买到不好产品，您说是吗？",
+                "chopId" : 1155,
+                "chopLabel" : "B"
+              }
+            ]
+          },
+          "name" : "客户进店时说只是随便看看，应对方式（）。"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "判断题",
+      "displaytitle" : true,
+      "totalScore" : "6",
+      "questionTypeCode" : "J",
+      "categoryId" : 104,
+      "questionTypeTitle" : "判断题(0\/3)",
+      "questionInputList" : [
+        539,
+        540,
+        541
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "text" : "报销快递费，填写单据费用类别选通讯费用，摘要写快递费。",
+          "id" : 539,
+          "score" : "2",
+          "answer" : "W",
+          "name" : "报销快递费，填写单据费用类别选通讯费用，",
+          "qtypecode" : "J"
+        },
+        {
+          "text" : "王五请客户去餐厅吃饭，结账时开发票，发现发票章盖得不是很好，基本看不清楚，他要求餐厅收银员在发票的空白地方重新盖章。",
+          "id" : 540,
+          "score" : "2",
+          "answer" : "R",
+          "name" : "王五请客户去餐厅吃饭，结账时开发票，发现",
+          "qtypecode" : "J"
+        },
+        {
+          "text" : "熊英去小卖部购买办公用品，要求开具发票，拿到发票后发现发票上收款单位写着惠州XX办公用品经营部，而发票章上的名字是惠州XX办公用品经营销售部，他遂要求商家重新开具有效发票。熊大这种行为是对的。",
+          "id" : 541,
+          "score" : "2",
+          "answer" : "R",
+          "name" : "熊英去小卖部购买办公用品，要求开具发票，",
+          "qtypecode" : "J"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "填空题",
+      "displaytitle" : true,
+      "totalScore" : "10",
+      "questionTypeCode" : "F",
+      "categoryId" : 105,
+      "questionTypeTitle" : "填空题(0\/3)",
+      "questionInputList" : [
+        [
+          "661_16",
+          "661_17"
+        ],
+        [
+          "662_12",
+          "662_13"
+        ],
+        [
+          "681_21",
+          "681_22",
+          "681_23"
+        ]
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "F",
+          "score" : "2",
+          "answer" : "",
+          "fillBlankIdList" : [
+            16,
+            17
+          ],
+          "id" : 661,
+          "text" : "本公司的全称为{|*|}，本公司的行业为{|*|}。",
+          "fillBlankOptionList" : [
+            "深圳市学友软件有限公司",
+            "在线教育"
+          ],
+          "name" : "​本公司的全称"
+        },
+        {
+          "qtypecode" : "F",
+          "score" : "2",
+          "answer" : "",
+          "fillBlankIdList" : [
+            12,
+            13
+          ],
+          "id" : 662,
+          "text" : "公司上班时间为上午{|*|}到{|*|}。",
+          "fillBlankOptionList" : [
+            "9",
+            "12"
+          ],
+          "name" : "公司上班时间"
+        },
+        {
+          "qtypecode" : "F",
+          "score" : "6",
+          "answer" : "",
+          "fillBlankIdList" : [
+            21,
+            22,
+            23
+          ],
+          "id" : 681,
+          "text" : "公司全称：{|*|}，公司成立于年{|*|}，公司的性质是{|*|}。",
+          "fillBlankOptionList" : [
+            "深圳市学友软件有限公司",
+            "2011",
+            "有限责任公司"
+          ],
+          "name" : "公司全称：，公司成立于年，公司的性质是。"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "文字题",
+      "displaytitle" : true,
+      "totalScore" : "40",
+      "questionTypeCode" : "Q",
+      "categoryId" : 106,
+      "questionTypeTitle" : "文字题(0\/3)",
+      "questionInputList" : [
+        607,
+        608,
+        701
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "Q",
+          "score" : "10",
+          "answer" : "采购中心：所有参与购买过程的人员构成采购组织的决策单位，市场营销学称之为采购中心。\n主要成员：使用者；影响者；采购者；决定者；信息控制者。",
+          "answerRows" : 3,
+          "id" : 607,
+          "text" : "某石油开采公司首次购买一种新型钻井平台，因而专门成立了采购中心。请问什么是采购中心？并结合实际分析该采购中心通常应用哪些成员组成？",
+          "name" : "采购中心"
+        },
+        {
+          "qtypecode" : "Q",
+          "score" : "10",
+          "answer" : "优点：①使管理人员认识到，企业所有类型的费用支出都与总收入的变动有关。\n②使管理人员根据单位广告成本、产品售价和销售利润之间的关系来考虑企业的经营管理问题。\n③有利于保持竞争的相对稳定。\n缺点：①因果倒置。\n②会失去有利的市场营销机会。\n③使广告预算每年随销售波动而增减，与广告长期方案抵触。\n④比率随意确定。\n⑤导致平均主义。",
+          "answerRows" : 3,
+          "id" : 608,
+          "text" : "某汽车制造公司以每辆汽车预估价格的某一固定比率作为确定广告预算的基础，试分析该公司运用的确定广告预算的方法有何特点？",
+          "name" : "广告预算的方法"
+        },
+        {
+          "qtypecode" : "Q",
+          "score" : "20",
+          "answer" : "(1) 电话访问、邮寄问卷和人员访问及其特点。\r\n(2) 地理变量和人口变量。\r\n18—25岁 (婚前) 这个子市场，因为日本女性婚后在家的多。\r\n(3) 销售波动调查法、模拟商店法、有控制的市场试验和试验市场及其含义。\r\n(4) 撇脂定价的含义及其条件。",
+          "answerRows" : 3,
+          "id" : 701,
+          "text" : "国内某化妆品有限责任公司于20世纪80年代初开发出适合东方女性需求特点的具有独特功效的系列化妆品，并在多个国家获得了专利保护。营销部经理初步分析了亚洲各国和地区的情况，首选日本作为主攻市场。为迅速掌握日本市场的情况，公司派人员直赴日本，主要运用调查法搜集一手资料。调查显示，日本市场需求潜量大，购买力强，且没有同类产品竞争者，使公司人员兴奋不已。在调查基础上又按年龄层次将日本女性化妆品市场划分为15～18岁、18～25岁(婚前)、25～35岁及35岁以上四个子市场，并选择了其中最大的一个子市场进行重点开发。营销经理对前期工作感到相当满意，为确保成功，他正在思考再进行一次市场试验。另外公司经理还等着与他讨论应采取体积定价策略。\r\n问题：(1) 该公司运用的搜集一手资料的调查法一般有哪几种方式？各有何特点？\r\n(2) 该公司进行市场细分的细分变量主要是什么？根据日本市场的特点，公司选择的最大子市场应该是哪个？为什么？\r\n(3) 请你为该公司营销经理提供几种进行市场试验的方法。\r\n(4) 作为新产品，你认为该公司应采取何种定价策略？为什么？",
+          "name" : "市场产品与营销"
+        }
+      ]
+    }
+  ],
+  "startTime" : 1498667506,
+  "actatthisid" : 0,
+  "actAttId" : 8583
+}

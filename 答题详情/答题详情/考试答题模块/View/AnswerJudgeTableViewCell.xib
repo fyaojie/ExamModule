@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12120" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="AnswerJudgeTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="43.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="e_select_s" translatesAutoresizingMaskIntoConstraints="NO" id="ISZ-PP-5Rb">
+                        <rect key="frame" x="15" y="14.5" width="15" height="15"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="ISZ-PP-5Rb" secondAttribute="height" id="tv3-Ie-CF8"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="对" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eG6-DD-C4N">
+                        <rect key="frame" x="40" y="14.5" width="13.5" height="16"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="e_error" translatesAutoresizingMaskIntoConstraints="NO" id="Dpd-Kf-QMo">
+                        <rect key="frame" x="350" y="17" width="10" height="11"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="Dpd-Kf-QMo" secondAttribute="height" id="X3h-tf-iMl"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="eG6-DD-C4N" firstAttribute="centerY" secondItem="ISZ-PP-5Rb" secondAttribute="centerY" id="30V-Vc-npD"/>
+                    <constraint firstItem="eG6-DD-C4N" firstAttribute="leading" secondItem="ISZ-PP-5Rb" secondAttribute="trailing" constant="10" id="5Rc-vJ-E2K"/>
+                    <constraint firstAttribute="trailing" secondItem="Dpd-Kf-QMo" secondAttribute="trailing" constant="15" id="Nc1-RK-zSj"/>
+                    <constraint firstItem="ISZ-PP-5Rb" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="Odv-Zx-SJp"/>
+                    <constraint firstItem="ISZ-PP-5Rb" firstAttribute="top" relation="greaterThanOrEqual" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="Y2L-JH-Ilt"/>
+                    <constraint firstItem="ISZ-PP-5Rb" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="Y2v-mj-nCb"/>
+                    <constraint firstItem="Dpd-Kf-QMo" firstAttribute="height" secondItem="eG6-DD-C4N" secondAttribute="height" multiplier="2/3" id="hpO-N0-v7V"/>
+                    <constraint firstItem="Dpd-Kf-QMo" firstAttribute="centerY" secondItem="eG6-DD-C4N" secondAttribute="centerY" id="ozu-Qe-Qfw"/>
+                    <constraint firstItem="ISZ-PP-5Rb" firstAttribute="width" secondItem="H2p-sc-9uM" secondAttribute="width" multiplier="15/375" id="ugH-NT-nGN"/>
+                    <constraint firstItem="eG6-DD-C4N" firstAttribute="top" secondItem="ISZ-PP-5Rb" secondAttribute="top" id="ulv-Vn-8DW"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="resultImageView" destination="Dpd-Kf-QMo" id="hTG-Fm-Rod"/>
+                <outlet property="statusImageView" destination="ISZ-PP-5Rb" id="g3a-qZ-5LB"/>
+                <outlet property="titleLabel" destination="eG6-DD-C4N" id="eki-gu-2N6"/>
+            </connections>
+            <point key="canvasLocation" x="72" y="37"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="e_error" width="10" height="10"/>
+        <image name="e_select_s" width="14" height="14"/>
+    </resources>
+</document>

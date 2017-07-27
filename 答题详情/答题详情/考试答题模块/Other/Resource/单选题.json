@@ -1,0 +1,211 @@
+{
+  "monitorid" : 363,
+  "testInfo" : {
+    "fromScore" : 0,
+    "fromTime" : 0,
+    "answerquetime" : 3,
+    "scoremethod" : 0,
+    "score" : 87,
+    "id" : 161,
+    "displaymode" : 2,
+    "actAttId" : 0,
+    "active" : true,
+    "generatemode" : 1,
+    "allowpause" : false,
+    "commitmode" : 2,
+    "remainingTime" : 0,
+    "testDrawRuleList" : [
+
+    ],
+    "allowdisplayscore" : true,
+    "questionNumber" : 0,
+    "exactCol" : [
+
+    ],
+    "questionnaireId" : 0,
+    "status" : "",
+    "containChildCatalog" : 0,
+    "description" : "静态综合测试（一）",
+    "scorepolicy" : "M",
+    "passingscore" : 60,
+    "attemptmethod" : 0,
+    "testCatalogIdLst" : "",
+    "hastAttendance" : false,
+    "formatPassingscore" : 53,
+    "testCatalogName" : "",
+    "testCatalogId" : 0,
+    "endtime" : "",
+    "assessind" : false,
+    "name" : "静态综合测试（一）",
+    "testType" : {
+      "code" : "S",
+      "id" : 4,
+      "labeldescription" : "description",
+      "labelname" : "test.type.S"
+    },
+    "categoryNumber" : 0,
+    "formatScore" : "87",
+    "toTime" : 0,
+    "saveType" : "",
+    "testCategoryList" : [
+
+    ],
+    "maxattempts" : 0,
+    "assessmentId" : 0,
+    "formatDate" : "2017-06-15 16:53",
+    "surveyind" : false,
+    "toScore" : 0,
+    "visitType" : "",
+    "testTypeCode" : "S",
+    "attemptperiod" : 0,
+    "allowreview" : false,
+    "starttime" : "",
+    "userName" : "能不能取个好名字",
+    "answernextque" : 0,
+    "displayanswer" : "F",
+    "answerTime" : 90,
+    "modifieddate" : 1497516809742,
+    "creator" : 2,
+    "time" : 90,
+    "allowattemptfailed" : 0,
+    "actTestAttId" : 0,
+    "testTypeLabel" : "",
+    "createdate" : 1497516809742,
+    "difficultlevel" : 0,
+    "modifiedby" : 2
+  },
+  "questionnaireId" : 0,
+  "categoryQuestionList" : [
+    {
+      "questionTypeText" : "单选题",
+      "displaytitle" : true,
+      "totalScore" : "10.5",
+      "questionTypeCode" : "S",
+      "categoryId" : 101,
+      "questionTypeTitle" : "单选题(0\/3)",
+      "questionInputList" : [
+        517,
+        518,
+        519
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "S",
+          "score" : "3.5",
+          "answer" : "C",
+          "id" : 517,
+          "text" : "各种休假单、加班单应于每月（ ）前交至人事行政部，由人事行政部统计。",
+          "choiceOption" : {
+            "choiceAnswer" : "C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "10日",
+                "chopId" : 1006,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "15日",
+                "chopId" : 1007,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "20日",
+                "chopId" : 1008,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "25日",
+                "chopId" : 1009,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "各种休假单、加班单应于每月（）前交至人事行"
+        },
+        {
+          "qtypecode" : "S",
+          "score" : "3.5",
+          "answer" : "B",
+          "id" : 518,
+          "text" : "年终奖绩效考核周期为（ ）",
+          "choiceOption" : {
+            "choiceAnswer" : "B ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "当月1月1日至12月31日",
+                "chopId" : 1010,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "当年7月1日至次年6月30日",
+                "chopId" : 1011,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "当年7月28日至次年7月27日",
+                "chopId" : 1012,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "当年9月1日至次年8月31日",
+                "chopId" : 1013,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "年终奖绩效考核周期为（）"
+        },
+        {
+          "qtypecode" : "S",
+          "score" : "3.5",
+          "answer" : "C",
+          "id" : 519,
+          "text" : "关于加班说法正确的是（ ）",
+          "choiceOption" : {
+            "choiceAnswer" : "C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "正常工作时间前半小时可以算加班",
+                "chopId" : 1014,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "下班后半小时可以算加班",
+                "chopId" : 1015,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "正常工作时间前半小时或后半小时将不视为加班时间",
+                "chopId" : 1016,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "正常工作时间前半小时或后半小时视为加班时间",
+                "chopId" : 1017,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "关于加班说法正确的是（）"
+        }
+      ]
+    }
+],
+  "startTime" : 1498667506,
+  "actatthisid" : 0,
+  "actAttId" : 8583
+}

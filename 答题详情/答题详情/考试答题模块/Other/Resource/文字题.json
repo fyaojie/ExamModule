@@ -1,0 +1,127 @@
+{
+  "monitorid" : 363,
+  "testInfo" : {
+    "fromScore" : 0,
+    "fromTime" : 0,
+    "answerquetime" : 5,
+    "scoremethod" : 0,
+    "score" : 87,
+    "id" : 161,
+    "displaymode" : 2,
+    "actAttId" : 0,
+    "active" : true,
+    "generatemode" : 1,
+    "allowpause" : false,
+    "commitmode" : 2,
+    "remainingTime" : 0,
+    "testDrawRuleList" : [
+
+    ],
+    "allowdisplayscore" : true,
+    "questionNumber" : 0,
+    "exactCol" : [
+
+    ],
+    "questionnaireId" : 0,
+    "status" : "",
+    "containChildCatalog" : 0,
+    "description" : "静态综合测试（一）",
+    "scorepolicy" : "M",
+    "passingscore" : 60,
+    "attemptmethod" : 0,
+    "testCatalogIdLst" : "",
+    "hastAttendance" : false,
+    "formatPassingscore" : 53,
+    "testCatalogName" : "",
+    "testCatalogId" : 0,
+    "endtime" : "",
+    "assessind" : false,
+    "name" : "静态综合测试（一）",
+    "testType" : {
+      "code" : "S",
+      "id" : 4,
+      "labeldescription" : "description",
+      "labelname" : "test.type.S"
+    },
+    "categoryNumber" : 0,
+    "formatScore" : "87",
+    "toTime" : 0,
+    "saveType" : "",
+    "testCategoryList" : [
+
+    ],
+    "maxattempts" : 0,
+    "assessmentId" : 0,
+    "formatDate" : "2017-06-15 16:53",
+    "surveyind" : false,
+    "toScore" : 0,
+    "visitType" : "",
+    "testTypeCode" : "S",
+    "attemptperiod" : 0,
+    "allowreview" : false,
+    "starttime" : "",
+    "userName" : "能不能取个好名字",
+    "answernextque" : 0,
+    "displayanswer" : "F",
+    "answerTime" : 90,
+    "modifieddate" : 1497516809742,
+    "creator" : 2,
+    "time" : 90,
+    "allowattemptfailed" : 0,
+    "actTestAttId" : 0,
+    "testTypeLabel" : "",
+    "createdate" : 1497516809742,
+    "difficultlevel" : 0,
+    "modifiedby" : 2
+  },
+  "questionnaireId" : 0,
+  "categoryQuestionList" : [
+    {
+      "questionTypeText" : "文字题",
+      "displaytitle" : true,
+      "totalScore" : "40",
+      "questionTypeCode" : "Q",
+      "categoryId" : 106,
+      "questionTypeTitle" : "文字题(0\/3)",
+      "questionInputList" : [
+        607,
+        608,
+        701
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "Q",
+          "score" : "10",
+          "answer" : "采购中心：所有参与购买过程的人员构成采购组织的决策单位，市场营销学称之为采购中心。\n主要成员：使用者；影响者；采购者；决定者；信息控制者。",
+          "answerRows" : 3,
+          "id" : 607,
+          "text" : "某石油开采公司首次购买一种新型钻井平台，因而专门成立了采购中心。请问什么是采购中心？并结合实际分析该采购中心通常应用哪些成员组成？",
+          "name" : "采购中心"
+        },
+        {
+          "qtypecode" : "Q",
+          "score" : "10",
+          "answer" : "优点：①使管理人员认识到，企业所有类型的费用支出都与总收入的变动有关。\n②使管理人员根据单位广告成本、产品售价和销售利润之间的关系来考虑企业的经营管理问题。\n③有利于保持竞争的相对稳定。\n缺点：①因果倒置。\n②会失去有利的市场营销机会。\n③使广告预算每年随销售波动而增减，与广告长期方案抵触。\n④比率随意确定。\n⑤导致平均主义。",
+          "answerRows" : 3,
+          "id" : 608,
+          "text" : "某汽车制造公司以每辆汽车预估价格的某一固定比率作为确定广告预算的基础，试分析该公司运用的确定广告预算的方法有何特点？",
+          "name" : "广告预算的方法"
+        },
+        {
+          "qtypecode" : "Q",
+          "score" : "20",
+          "answer" : "(1) 电话访问、邮寄问卷和人员访问及其特点。\r\n(2) 地理变量和人口变量。\r\n18—25岁 (婚前) 这个子市场，因为日本女性婚后在家的多。\r\n(3) 销售波动调查法、模拟商店法、有控制的市场试验和试验市场及其含义。\r\n(4) 撇脂定价的含义及其条件。",
+          "answerRows" : 3,
+          "id" : 701,
+          "text" : "国内某化妆品有限责任公司于20世纪80年代初开发出适合东方女性需求特点的具有独特功效的系列化妆品，并在多个国家获得了专利保护。营销部经理初步分析了亚洲各国和地区的情况，首选日本作为主攻市场。为迅速掌握日本市场的情况，公司派人员直赴日本，主要运用调查法搜集一手资料。调查显示，日本市场需求潜量大，购买力强，且没有同类产品竞争者，使公司人员兴奋不已。在调查基础上又按年龄层次将日本女性化妆品市场划分为15～18岁、18～25岁(婚前)、25～35岁及35岁以上四个子市场，并选择了其中最大的一个子市场进行重点开发。营销经理对前期工作感到相当满意，为确保成功，他正在思考再进行一次市场试验。另外公司经理还等着与他讨论应采取体积定价策略。\r\n问题：(1) 该公司运用的搜集一手资料的调查法一般有哪几种方式？各有何特点？\r\n(2) 该公司进行市场细分的细分变量主要是什么？根据日本市场的特点，公司选择的最大子市场应该是哪个？为什么？\r\n(3) 请你为该公司营销经理提供几种进行市场试验的方法。\r\n(4) 作为新产品，你认为该公司应采取何种定价策略？为什么？",
+          "name" : "市场产品与营销"
+        }
+      ]
+    }
+  ],
+  "startTime" : 1498667506,
+  "actatthisid" : 0,
+  "actAttId" : 8583
+}

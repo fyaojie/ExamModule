@@ -1,0 +1,770 @@
+{
+  "assessor" : "能不能取个好名字",
+  "myScore" : "42",
+  "testInfo" : {
+    "fromScore" : 0,
+    "fromTime" : 0,
+    "answerquetime" : 0,
+    "scoremethod" : 1,
+    "score" : 100,
+    "id" : 81,
+    "displaymode" : 0,
+    "actAttId" : 0,
+    "active" : true,
+    "generatemode" : 4,
+    "allowpause" : false,
+    "commitmode" : 1,
+    "remainingTime" : 0,
+    "testDrawRuleList" : [
+
+    ],
+    "allowdisplayscore" : false,
+    "questionNumber" : 0,
+    "exactCol" : [
+
+    ],
+    "questionnaireId" : 0,
+    "status" : "",
+    "containChildCatalog" : 0,
+    "description" : "",
+    "scorepolicy" : "M",
+    "passingscore" : 60,
+    "attemptmethod" : 0,
+    "testCatalogIdLst" : "",
+    "hastAttendance" : false,
+    "formatPassingscore" : 0,
+    "testCatalogName" : "",
+    "testCatalogId" : 0,
+    "endtime" : "",
+    "assessind" : false,
+    "name" : "新员工入职考试卷三",
+    "testType" : {
+      "code" : "S",
+      "id" : 4,
+      "labeldescription" : "description",
+      "labelname" : "test.type.S"
+    },
+    "categoryNumber" : 0,
+    "formatScore" : "100",
+    "toTime" : 0,
+    "saveType" : "",
+    "testCategoryList" : [
+
+    ],
+    "maxattempts" : 0,
+    "assessmentId" : 0,
+    "formatDate" : "2017-04-25 12:35",
+    "surveyind" : false,
+    "toScore" : 0,
+    "visitType" : "",
+    "testTypeCode" : "S",
+    "attemptperiod" : 0,
+    "allowreview" : false,
+    "starttime" : "",
+    "userName" : "能不能取个好名字",
+    "answernextque" : 0,
+    "displayanswer" : "F",
+    "answerTime" : 60,
+    "modifieddate" : 1496977418750,
+    "creator" : 2,
+    "time" : 60,
+    "allowattemptfailed" : 0,
+    "actTestAttId" : 0,
+    "testTypeLabel" : "",
+    "createdate" : 1493094927801,
+    "difficultlevel" : 0,
+    "modifiedby" : 2
+  },
+  "pageCount" : 6,
+  "testCommitTime" : "2017-06-28 11:04",
+  "assesstime" : "2017-06-28 11:04",
+  "categoryQuestionList" : [
+    {
+      "questionTypeText" : "单选题",
+      "displaytitle" : true,
+      "totalScore" : "30",
+      "questionTypeCode" : "S",
+      "categoryId" : 3380,
+      "questionTypeTitle" : "",
+      "questionInputList" : [
+        497,
+        499,
+        505,
+        506,
+        520
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "12",
+      "questionList" : [
+        {
+          "description" : "",
+          "id" : 497,
+          "answertext" : [
+            927
+          ],
+          "answer" : "B",
+          "qtypecode" : "S",
+          "correctindicator" : true,
+          "correctpersent" : 1,
+          "finalscore" : "6",
+          "text" : "发生的快递费用在费用类别应选填（）",
+          "score" : "6",
+          "name" : "发生的快递费用在费用类别应选填（）",
+          "choiceOption" : {
+            "choiceAnswer" : "B ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "外地差旅费",
+                "chopId" : 926,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "其他费用",
+                "chopId" : 927,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "通讯费用",
+                "chopId" : 928,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "本地交通费",
+                "chopId" : 929,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 499,
+          "answertext" : [
+            937
+          ],
+          "answer" : "C",
+          "qtypecode" : "S",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "出差餐费补贴，出现以下哪种情况是不应该扣除该餐餐补的？（）",
+          "score" : "6",
+          "name" : "出差餐费补贴，出现以下哪种情况是不应该扣",
+          "choiceOption" : {
+            "choiceAnswer" : "C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "早餐已包含在房费中",
+                "chopId" : 934,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "二人以上集体出差，且一起用餐后已指定人员报销的",
+                "chopId" : 935,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "餐费不包含在房费中",
+                "chopId" : 936,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : true,
+                "chopText" : "出席由本公司付账或由客户、主办单位付账之餐饮",
+                "chopId" : 937,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 505,
+          "answertext" : [
+            959
+          ],
+          "answer" : "C",
+          "qtypecode" : "S",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "公司允许在正规的卡拉OK厅和足底按摩厅产生娱乐费，人民币（）元\/人，单次总金额不超过（）元，无需事先审批",
+          "score" : "6",
+          "name" : "公司允许在正规的卡拉OK厅和足底按摩厅产",
+          "choiceOption" : {
+            "choiceAnswer" : "C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "300、3500",
+                "chopId" : 958,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "300、3200",
+                "chopId" : 959,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "300、3000",
+                "chopId" : 960,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "200、3000",
+                "chopId" : 961,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 506,
+          "answertext" : [
+            962
+          ],
+          "answer" : "B",
+          "qtypecode" : "S",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "陈宾用公司商务卡误刷个人消费项目，在填写交易类型时要选填（），费用类别要选填（），摘要写（）。",
+          "score" : "6",
+          "name" : "陈宾用公司商务卡误刷个人消费项目，在填写",
+          "choiceOption" : {
+            "choiceAnswer" : "B ",
+            "choiceOptionList" : [
+              {
+                "checked" : true,
+                "chopText" : "商务卡-公司、其他费用、个人消费",
+                "chopId" : 962,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "商务卡-个人、其他费用、个人消费",
+                "chopId" : 963,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "商务卡-个人、个人费用、个人消费",
+                "chopId" : 964,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "商务卡-公司、个人费用、个人消费",
+                "chopId" : 965,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 520,
+          "answertext" : [
+            1021
+          ],
+          "answer" : "D",
+          "qtypecode" : "S",
+          "correctindicator" : true,
+          "correctpersent" : 1,
+          "finalscore" : "6",
+          "text" : "新员工办理入职体检时所产生的费用是什么时候可以报销。",
+          "score" : "6",
+          "name" : "新员工办理入职体检时所产生的费用是什么",
+          "choiceOption" : {
+            "choiceAnswer" : "D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "入职一周后",
+                "chopId" : 1018,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "入职一个月后",
+                "chopId" : 1019,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "入职三个月后",
+                "chopId" : 1020,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : true,
+                "chopText" : "转正后",
+                "chopId" : 1021,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "多选题",
+      "displaytitle" : true,
+      "totalScore" : "30",
+      "questionTypeCode" : "M",
+      "categoryId" : 3381,
+      "questionTypeTitle" : "",
+      "questionInputList" : [
+        529,
+        531,
+        534,
+        574,
+        576
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "0",
+      "questionList" : [
+        {
+          "description" : "",
+          "id" : 529,
+          "answertext" : [
+            1054,
+            1053
+          ],
+          "answer" : "BCD",
+          "qtypecode" : "M",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "商务卡书面解释填写要求有（）",
+          "score" : "6",
+          "name" : "商务卡书面解释填写要求有（）",
+          "choiceOption" : {
+            "choiceAnswer" : "B C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "财务部领导亲笔签名",
+                "chopId" : 1052,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "本人亲笔签名",
+                "chopId" : 1053,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : true,
+                "chopText" : "上级领导的亲笔签名",
+                "chopId" : 1054,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "在报销单最下方的空白处填写原因",
+                "chopId" : 1055,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 531,
+          "answertext" : [
+            1062,
+            1061
+          ],
+          "answer" : "AC",
+          "qtypecode" : "M",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "公司允许在什么地方产生娱乐费，人民币300元\/人，单次总金额不超过3000元，无需事先审批。（）",
+          "score" : "6",
+          "name" : "公司允许在什么地方产生娱乐费，人民币300",
+          "choiceOption" : {
+            "choiceAnswer" : "A C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "正规的卡拉OK厅",
+                "chopId" : 1060,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "正规的桑拿浴室",
+                "chopId" : 1061,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : true,
+                "chopText" : "正规的足底按摩厅",
+                "chopId" : 1062,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "正规的酒吧舞厅",
+                "chopId" : 1063,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 534,
+          "answertext" : [
+            1074,
+            1073
+          ],
+          "answer" : "ABD",
+          "qtypecode" : "M",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "费用报销单上交易类型有（）",
+          "score" : "6",
+          "name" : "费用报销单上交易类型有（）",
+          "choiceOption" : {
+            "choiceAnswer" : "A B D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "商务卡-个人",
+                "chopId" : 1072,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "商务卡-公司",
+                "chopId" : 1073,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : true,
+                "chopText" : "银行转账",
+                "chopId" : 1074,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "现金",
+                "chopId" : 1075,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 574,
+          "answertext" : [
+            1113,
+            1115
+          ],
+          "answer" : "BCD",
+          "qtypecode" : "M",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "根据公司政策，以下哪些礼品不可赠予第三方？（多选）",
+          "score" : "6",
+          "name" : "根据公司政策，以下哪些礼品不可赠予第三方",
+          "choiceOption" : {
+            "choiceAnswer" : "B C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "水果",
+                "chopId" : 1112,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "红酒",
+                "chopId" : 1113,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "香烟",
+                "chopId" : 1114,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : true,
+                "chopText" : "运动鞋",
+                "chopId" : 1115,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        },
+        {
+          "description" : "",
+          "id" : 576,
+          "answertext" : [
+            1121,
+            1120
+          ],
+          "answer" : "ACD",
+          "qtypecode" : "M",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "根据公司政策，由企学中国发起的慈善捐赠活动需要以下哪些环节的审批？ （多选）",
+          "score" : "6",
+          "name" : "根据公司政策，由企学中国发起的慈善捐赠活",
+          "choiceOption" : {
+            "choiceAnswer" : "A C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : true,
+                "chopText" : "合规部",
+                "chopId" : 1120,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : true,
+                "chopText" : "法务部",
+                "chopId" : 1121,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "中国总裁",
+                "chopId" : 1122,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "中国主席",
+                "chopId" : 1123,
+                "chopLabel" : "D"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "判断题",
+      "displaytitle" : true,
+      "totalScore" : "10",
+      "questionTypeCode" : "J",
+      "categoryId" : 3382,
+      "questionTypeTitle" : "",
+      "questionInputList" : [
+        548,
+        552,
+        561,
+        563,
+        564
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "10",
+      "questionList" : [
+        {
+          "qtypecode" : "J",
+          "score" : "2",
+          "answer" : "W",
+          "id" : 548,
+          "finalscore" : "2",
+          "answertext" : "R",
+          "text" : "如果是涉及提供第三方差旅的，不得包含在员工个人报销中。",
+          "correctpersent" : 1,
+          "description" : "",
+          "correctindicator" : true,
+          "name" : "如果是涉及提供第三方差旅的，不得包含在员"
+        },
+        {
+          "qtypecode" : "J",
+          "score" : "2",
+          "answer" : "W",
+          "id" : 552,
+          "finalscore" : "2",
+          "answertext" : "W",
+          "text" : "毕妍是广州锐讯医药有限公司采销部员工，本月报销业务招待费，发票抬头为广州锐迅医药有限公司。",
+          "correctpersent" : 1,
+          "description" : "",
+          "correctindicator" : true,
+          "name" : "毕妍是广州锐讯医药有限公司采销部员工，本"
+        },
+        {
+          "qtypecode" : "J",
+          "score" : "2",
+          "answer" : "R",
+          "id" : 561,
+          "finalscore" : "2",
+          "answertext" : "R",
+          "text" : "加班时间必须在最少半小时以上才适合支付加班津贴。正常工作时间前半小时或后半小时将不视为加班时间。",
+          "correctpersent" : 1,
+          "description" : "",
+          "correctindicator" : true,
+          "name" : "加班时间必须在最少半小时以上才适合支付"
+        },
+        {
+          "qtypecode" : "J",
+          "score" : "2",
+          "answer" : "W",
+          "id" : 563,
+          "finalscore" : "2",
+          "answertext" : "W",
+          "text" : "出差和因公外出需事先通知人事行政部，休假按公司《考勤制度》执行 。",
+          "correctpersent" : 1,
+          "description" : "",
+          "correctindicator" : true,
+          "name" : "出差和因公外出需事先通知人事行政部，休假"
+        },
+        {
+          "qtypecode" : "J",
+          "score" : "2",
+          "answer" : "R",
+          "id" : 564,
+          "finalscore" : "2",
+          "answertext" : "R",
+          "text" : "加班时间必须在最少半小时以上才适合支付加班津贴。",
+          "correctpersent" : 1,
+          "description" : "",
+          "correctindicator" : true,
+          "name" : "加班时间必须在最少半小时以上才适合支付"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "填空题",
+      "displaytitle" : true,
+      "totalScore" : "10",
+      "questionTypeCode" : "F",
+      "categoryId" : 3383,
+      "questionTypeTitle" : "",
+      "questionInputList" : [
+        [
+          "662_12",
+          "662_13"
+        ],
+        [
+          "681_21",
+          "681_22",
+          "681_23"
+        ]
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "0",
+      "questionList" : [
+        {
+          "description" : "公司上班时间公司上班时间公司上班时间公司上班时间公司上班时间公司上班时间\r\n公司上班时间公司上班时间\r\n公司上班时间",
+          "id" : 662,
+          "answertext" : [
+            "12.00",
+            "12.30"
+          ],
+          "answer" : "",
+          "fillBlankOptionList" : [
+            "9",
+            "12"
+          ],
+          "qtypecode" : "F",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "公司上班时间为上午{|*|}到{|*|}。",
+          "fillBlankIdList" : [
+            12,
+            13
+          ],
+          "score" : "5",
+          "name" : "公司上班时间"
+        },
+        {
+          "description" : "",
+          "id" : 681,
+          "answertext" : [
+            "1111",
+            "1908",
+            "卖东西"
+          ],
+          "answer" : "",
+          "fillBlankOptionList" : [
+            "深圳市学友软件有限公司",
+            "2011",
+            "有限责任公司"
+          ],
+          "qtypecode" : "F",
+          "correctindicator" : false,
+          "correctpersent" : 0,
+          "finalscore" : "0",
+          "text" : "公司全称：{|*|}，公司成立于年{|*|}，公司的性质是{|*|}。",
+          "fillBlankIdList" : [
+            21,
+            22,
+            23
+          ],
+          "score" : "5",
+          "name" : "公司全称：，公司成立于年，公司的性质是。"
+        }
+      ]
+    },
+    {
+      "questionTypeText" : "问答题",
+      "displaytitle" : true,
+      "totalScore" : "20",
+      "questionTypeCode" : "Q",
+      "categoryId" : 3384,
+      "questionTypeTitle" : "",
+      "questionInputList" : [
+        608,
+        609
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "20",
+      "questionList" : [
+        {
+          "description" : "",
+          "id" : 608,
+          "answertext" : "答案噢耶",
+          "answer" : "优点：①使管理人员认识到，企业所有类型的费用支出都与总收入的变动有关。②使管理人员根据单位广告成本、产品售价和销售利润之间的关系来考虑企业的经营管理问题。③有利于保持竞争的相对稳定。缺点：①因果倒置。②会失去有利的市场营销机会。③使广告预算每年随销售波动而增减，与广告长期方案抵触。④比率随意确定。⑤导致平均主义。",
+          "qtypecode" : "Q",
+          "correctindicator" : true,
+          "correctpersent" : 1,
+          "finalscore" : "10",
+          "text" : "某汽车制造公司以每辆汽车预估价格的某一固定比率作为确定广告预算的基础，试分析该公司运用的确定广告预算的方法有何特点？",
+          "answerRows" : 3,
+          "score" : "10",
+          "name" : "广告预算的方法"
+        },
+        {
+          "description" : "",
+          "id" : 609,
+          "answertext" : "无哈呀呀什么爱~",
+          "answer" : "(1) 电话访问、邮寄问卷和人员访问及其特点。(2) 地理变量和人口变量。18—25岁 (婚前) 这个子市场，因为日本女性婚后在家的多。(3) 销售波动调查法、模拟商店法、有控制的市场试验和试验市场及其含义。(4) 撇脂定价的含义及其条件。",
+          "qtypecode" : "Q",
+          "correctindicator" : true,
+          "correctpersent" : 1,
+          "finalscore" : "10",
+          "text" : "国内某化妆品有限责任公司于20世纪80年代初开发出适合东方女性需求特点的具有独特功效的系列化妆品，并在多个国家获得了专利保护。营销部经理初步分析了亚洲各国和地区的情况，首选日本作为主攻市场。为迅速掌握日本市场的情况，公司派人员直赴日本，主要运用调查法搜集一手资料。调查显示，日本市场需求潜量大，购买力强，且没有同类产品竞争者，使公司人员兴奋不已。在调查基础上又按年龄层次将日本女性化妆品市场划分为15～18岁、18～25岁(婚前)、25～35岁及35岁以上四个子市场，并选择了其中最大的一个子市场进行重点开发。营销经理对前期工作感到相当满意，为确保成功，他正在思考再进行一次市场试验。另外公司经理还等着与他讨论应采取体积定价策略。\n问题：(1) 该公司运用的搜集一手资料的调查法一般有哪几种方式？各有何特点？\n(2) 该公司进行市场细分的细分变量主要是什么？根据日本市场的特点，公司选择的最大子市场应该是哪个？为什么？\n(3) 请你为该公司营销经理提供几种进行市场试验的方法。\n(4) 作为新产品，你认为该公司应采取何种定价策略？为什么？",
+          "answerRows" : 3,
+          "score" : "10",
+          "name" : "市场产品与营销"
+        }
+      ]
+    }
+  ],
+  "myStatus" : "不合格",
+  "currentPage" : 2
+}

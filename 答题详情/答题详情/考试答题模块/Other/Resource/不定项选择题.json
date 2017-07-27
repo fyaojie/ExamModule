@@ -1,0 +1,429 @@
+{
+  "monitorid" : 21,
+  "testInfo" : {
+    "fromScore" : 0,
+    "fromTime" : 0,
+    "answerquetime" : 0,
+    "scoremethod" : 0,
+    "score" : 50,
+    "id" : 4,
+    "displaymode" : 0,
+    "actAttId" : 0,
+    "active" : true,
+    "generatemode" : 1,
+    "allowpause" : false,
+    "commitmode" : 3,
+    "remainingTime" : 0,
+    "testDrawRuleList" : [
+
+    ],
+    "allowdisplayscore" : false,
+    "questionNumber" : 0,
+    "exactCol" : [
+
+    ],
+    "questionnaireId" : 0,
+    "status" : "",
+    "containChildCatalog" : 0,
+    "description" : "",
+    "scorepolicy" : "M",
+    "passingscore" : 60,
+    "attemptmethod" : 0,
+    "testCatalogIdLst" : "",
+    "hastAttendance" : false,
+    "formatPassingscore" : 30,
+    "testCatalogName" : "",
+    "testCatalogId" : 0,
+    "endtime" : "",
+    "assessind" : false,
+    "name" : "销售技巧考试卷",
+    "testType" : {
+      "code" : "S",
+      "id" : 4,
+      "labeldescription" : "description",
+      "labelname" : "test.type.S"
+    },
+    "categoryNumber" : 0,
+    "formatScore" : "50",
+    "toTime" : 0,
+    "saveType" : "",
+    "testCategoryList" : [
+
+    ],
+    "maxattempts" : 0,
+    "assessmentId" : 0,
+    "formatDate" : "2017-01-11 16:13",
+    "surveyind" : false,
+    "toScore" : 0,
+    "visitType" : "",
+    "testTypeCode" : "S",
+    "attemptperiod" : 0,
+    "allowreview" : false,
+    "starttime" : "",
+    "userName" : "能不能取个好名字",
+    "answernextque" : 0,
+    "displayanswer" : "P",
+    "answerTime" : 30,
+    "modifieddate" : 1496885435406,
+    "creator" : 2,
+    "time" : 30,
+    "allowattemptfailed" : 0,
+    "actTestAttId" : 0,
+    "testTypeLabel" : "",
+    "createdate" : 1484122434954,
+    "difficultlevel" : 0,
+    "modifiedby" : 2
+  },
+  "questionnaireId" : 0,
+  "categoryQuestionList" : [
+    {
+      "questionTypeText" : "不定项选择题，每题10分，共100分。",
+      "displaytitle" : true,
+      "totalScore" : "50",
+      "questionTypeCode" : "N",
+      "categoryId" : 6,
+      "questionTypeTitle" : "",
+      "questionInputList" : [
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587
+      ],
+      "answeredNumber" : 0,
+      "finalScore" : "",
+      "questionList" : [
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "A",
+          "id" : 578,
+          "text" : "店面销售的七个步骤？ 准备、接待、客户需求、产品呈现、( ) 。",
+          "choiceOption" : {
+            "choiceAnswer" : "A ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "异议处理、逼单、客户跟踪",
+                "chopId" : 1124,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "客户跟踪、异议处理、逼单",
+                "chopId" : 1125,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "客户跟踪、逼单、异议处理",
+                "chopId" : 1126,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "店面销售的七个步骤？准备、接待、客户需求、"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 579,
+          "text" : "店面销售的准备阶段的三个方面 。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "A、形象准备",
+                "chopId" : 1127,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "B、店面氛围",
+                "chopId" : 1128,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "C、道具准备",
+                "chopId" : 1129,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "店面销售的准备阶段的三个方面。"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 580,
+          "text" : "门口迎宾的531法则。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "五米注视",
+                "chopId" : 1130,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "3米微笑",
+                "chopId" : 1131,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "1米出击",
+                "chopId" : 1132,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "门口迎宾的531法则。"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABCD",
+          "id" : 581,
+          "text" : "客户需求体现有哪些方面？",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "实用、美观",
+                "chopId" : 1133,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "质量",
+                "chopId" : 1134,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "价格、品牌",
+                "chopId" : 1135,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "差异、服务",
+                "chopId" : 1136,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "客户需求体现有哪些方面？"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABCD",
+          "id" : 582,
+          "text" : "产品呈现的5个有效方法：卖点差异化、( ) 、( ) 、( ) 、( ) 。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "放大痛苦",
+                "chopId" : 1137,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "树立标准",
+                "chopId" : 1138,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "使用道具",
+                "chopId" : 1139,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "擅用道具",
+                "chopId" : 1140,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "产品呈现的5个有效方法：卖点差异化、()、()、"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABCD",
+          "id" : 583,
+          "text" : "客户异议表现的4个方面：(   ) 。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C D ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "误解",
+                "chopId" : 1141,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "怀疑",
+                "chopId" : 1142,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "拒绝",
+                "chopId" : 1143,
+                "chopLabel" : "C"
+              },
+              {
+                "checked" : false,
+                "chopText" : "产品缺陷",
+                "chopId" : 1144,
+                "chopLabel" : "D"
+              }
+            ]
+          },
+          "name" : "客户异议表现的4个方面：()。"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 584,
+          "text" : "报价技巧的6个动作：(   ) 。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "报、封",
+                "chopId" : 1145,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "遛、平",
+                "chopId" : 1146,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "摸、让",
+                "chopId" : 1147,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "报价技巧的6个动作：()。"
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 585,
+          "text" : "顾客进店的开场白：",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "“您好，欢迎光临好莱客全屋原态定制家居体验馆”",
+                "chopId" : 1148,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "“好莱客专业做定制家居13年了”",
+                "chopId" : 1149,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "“我们好莱客有高环保的甲醛零添加原态板”",
+                "chopId" : 1150,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "顾客进店的开场白："
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "ABC",
+          "id" : 586,
+          "text" : "顾客被叫进店，却不说话，请用话术化解尴尬：",
+          "choiceOption" : {
+            "choiceAnswer" : "A B C ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，我看您挺面熟的，您之前有来过吗？",
+                "chopId" : 1151,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，您太严肃了，我长的不吓人吧",
+                "chopId" : 1152,
+                "chopLabel" : "B"
+              },
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，您平时都这么酷吗？弄的我好紧张呀",
+                "chopId" : 1153,
+                "chopLabel" : "C"
+              }
+            ]
+          },
+          "name" : "顾客被叫进店，却不说话，请用话术化解尴尬："
+        },
+        {
+          "qtypecode" : "N",
+          "score" : "5",
+          "answer" : "AB",
+          "id" : 587,
+          "text" : "客户进店时说只是随便看看，应对方式（ ）。",
+          "choiceOption" : {
+            "choiceAnswer" : "A B ",
+            "choiceOptionList" : [
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，买家具可是大事情，最好认真仔细的了解一下，您说对吧？",
+                "chopId" : 1154,
+                "chopLabel" : "A"
+              },
+              {
+                "checked" : false,
+                "chopText" : "顾客先生，既然进来了就好好了解一下选择衣柜的标准，这样您也不会买到不好产品，您说是吗？",
+                "chopId" : 1155,
+                "chopLabel" : "B"
+              }
+            ]
+          },
+          "name" : "客户进店时说只是随便看看，应对方式（）。"
+        }
+      ]
+    }
+  ],
+  "startTime" : 1498618808,
+  "actatthisid" : 0,
+  "actAttId" : 1667
+}
